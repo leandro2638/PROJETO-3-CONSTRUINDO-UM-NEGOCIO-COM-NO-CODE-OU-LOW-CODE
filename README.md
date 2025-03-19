@@ -1,1 +1,1 @@
-# PROJETO-3-CONSTRUINDO-UM-NEGOCIO-COM-NO-CODE-OU-LOW-CODE
+Esse projeto é uma Loja virtual de brinquedos e acessórios pra pets
